@@ -49,11 +49,6 @@ The project utilizes a **Modern SaaS Design System** characterized by:
 - **Dynamic Blobs**: Animated background elements for visual depth.
 - **High-Performance Animations**: Optimized CSS transitions and JavaScript-driven reveals.
 - **Accessibility**: Semantic HTML and clear visual hierarchies.
-
-## 📄 License
-
-&copy; 2026 Quality Management Systems, Inc. All rights reserved.
-
 ---
 
 *Built with precision for the next generation of manufacturing excellence.*
